@@ -4,6 +4,8 @@
 #import <Foundation/Foundation.h>
 #import "MPAbstractABTestDesignerMessage.h"
 
+#import <UIKit/UIKit.h>
+
 @interface MPABTestDesignerSnapshotResponseMessage : MPAbstractABTestDesignerMessage
 
 + (instancetype)message;

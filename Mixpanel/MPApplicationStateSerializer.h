@@ -3,6 +3,8 @@
 
 #import <Foundation/Foundation.h>
 
+#import <UIKit/UIKit.h>
+
 @class MPObjectSerializerConfig;
 @class MPObjectIdentityProvider;
 

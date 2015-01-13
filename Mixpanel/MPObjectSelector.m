@@ -10,6 +10,8 @@
 #import "MPObjectSelector.h"
 #import "NSData+MPBase64.h"
 
+#import <UIKit/UIKit.h>
+
 @interface MPObjectFilter : NSObject
 
 @property (nonatomic, strong) NSString *name;
